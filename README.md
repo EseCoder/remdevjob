@@ -29,3 +29,4 @@
 | Abdul-Jabbar Bozdar | ajbozdar@vivaldi.net | Nginx, C#, .Net, MS-SQL, Azure, PHP, Angular, MongoDB, Technical Writing | https://ajbozdar.com | https://twitter.com/ajbozdar
 | Oluwafemi Anjorin | femianjorin@rocketmail.com | HTML, CSS, JavaScript, React, Node, Express, GraphQL | https://femianjorin.com/ | https://twitter.com/femianjorin11 |
 | Fortune Ikechi | ikechifortune@gmail.com | HTML, CSS, JavaScript, React, Node, Express, React Native | https://fortune-ikechi.netlify.app/ | https://twitter.com/codedog_ |
+| Ese Udom | udomese@yahoo.com | Java, Android, PHP, Laravel, MySQL, AWS, Javascript, Kotlin | https://linkedin.com/in/eseudom | https://twitter.com/esedevlin 
